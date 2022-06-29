@@ -32,11 +32,7 @@ CONNECT WITH ME
 
 ----
 
-> <a href="https://youtube.com/channel/UCKW8EUxAo6A7RKhc35H54wg"><img src="https://img.shields.io/badge/Subscribe-My YT Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
-
-----
-
-> <a href="https://github.com/whiteshadowofficial/Jessi-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Jessica-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://github.com/CYBERXKID/Alexa-Setup/blob/main/Features.md"><img src="https://img.shields.io/badge/Alexa-All Futures-FF0190CF?style=for-the-badge&logo=github&logoColor=FF0190CF&link=https://www.youtube.com/c/CYBERXKID" /><br>
 
 
   </div>
