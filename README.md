@@ -11,6 +11,8 @@
 > SET UP BOT NOW ...👇
 
 ----
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Cyberm/Alexa-Queen-MD-Qr-Code)
+  
 
 
 
