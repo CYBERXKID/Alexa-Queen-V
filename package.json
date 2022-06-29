@@ -1,5 +1,5 @@
 {
-  "name": "Jessi",
+  "name": "ALEXA QUEEN MD",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -18,7 +18,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "whiteshadow",
+  "author": "cyberxkid",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "^4.0.1",
@@ -65,10 +65,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD.git"
+    "url": "git+https://github.com/CYBERXKID/Alexa-Queen.git"
   },
   "bugs": {
-    "url": "https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD/issues"
+    "url": "https://github.com/CYBERXKID/Alexa-Queen-V/issues"
   },
-  "homepage": "https://github.com/whiteshadowofficial/Jessi-WhatsApp-Bot-MD#readme"
+  "homepage": "https://github.com/CYBERXKID/Alexa-Queen-V#readme"
 }
