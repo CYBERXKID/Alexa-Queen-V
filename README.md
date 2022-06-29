@@ -1,3 +1,5 @@
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F5000&lines=𝗪𝗘𝗟𝗖𝗢𝗠𝗘+𝗧𝗢+𝗔𝗟𝗘𝗫𝗔-𝗤𝗨𝗘𝗘𝗡_𝗠𝗗+𝗪𝗔+𝗕𝗢𝗧...;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗖𝗬𝗕𝗘𝗥+𝗞𝗜𝗗𝗗...;𝗧𝗛𝗜𝗦+𝗜𝗦+𝗔+𝗠𝗨𝗟𝗧𝗜𝗣𝗟𝗘+𝗗𝗘𝗩𝗜𝗖𝗘+𝗕𝗢𝗧...;𝗪𝗜𝗧𝗛+𝗠𝗢𝗥𝗘+𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦...)](https://git.io/typing-svg)
+
 
 <img src="https://te.legra.ph/file/91edb7b62c2b4f1a2cda3.jpg" alt="nz" width="350"/>
 </p>
