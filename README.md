@@ -5,10 +5,6 @@
 🧚ALEXA QUEEN🧚
 
 
-> [Automated Multi Device whatsapp bot created](https://github.com/CYBERXKID) by [CYBERXKID](https://github.com/CYBERXKID)
-
-----
-
 
 > SET UP BOT NOW ...👇
 
