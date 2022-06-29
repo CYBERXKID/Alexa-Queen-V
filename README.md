@@ -10,7 +10,6 @@
 
 ----
 
-> <a href="https://github.com/CYBERXKID/Alexa-Queen-V-Setup"><img src="https://img.shields.io/badge/Setup-Alexa WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/CYBERXKID" /><br>
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa-Queen-V)
@@ -24,11 +23,11 @@
 
 
 
-## Connect With Me
+CONNECT WITH ME
 
 ----
 
-> <a href="https://wa.me/94779529221"><img src="https://img.shields.io/badge/Contact-White Shadow-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/BOTINDO" /><br>
+> <a href="https://wa.me/27686881509"><img src="https://img.shields.io/badge/Contact-CYBERXKID-4D009DE2?style=for-the-badge&logo=whatsapp&logoColor=4D009DE2&link=https://www.youtube.com/c/CYBERXKID" /><br>
 
 
 ----
