@@ -16,17 +16,8 @@
 
 > <a href="https://github.com/CYBERXKID/Alexa-Queen-V-Setup"><img src="https://img.shields.io/badge/Setup-Alexa WA Bot-FFFFFF6B?style=for-the-badge&logo=github&logoColor=FFFFFF6B&link=https://www.youtube.com/c/CYBERXKID" /><br>
 
-----
 
-> Setup Bot in sinhala...👇
-
-----
-
-
-
-
-
-----
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CYBERXKID/Alexa-Queen-V)
 
 
 
@@ -35,12 +26,6 @@
 <a href="https://github.com/CYBERXKID"><img title="Author" src="https://img.shields.io/badge/Author-CYBERXKID-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
 <a href="https://github.coom/CYBERXKID"><img title="Stars" src="https://img.shields.io/github/stars/CYBERXKID/Alexa-Queen-V?color=54aeff&style=flat-square" /></a>
 
-
-
-
-
-
-----
 
 
 ## Connect With Me
@@ -64,26 +49,11 @@
 ----
 
 
- 
-----
-
-
-
-  
- ----
-
 ## Developers
   <div align="center">
     
 
 ----|----|----
-
-
-
-## Thanks To
-* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`CYBERXKID`](https://github.com/CYBERXKID)
-* [`Black Panther`](github.com/blackpantherofc)
 
 
 
