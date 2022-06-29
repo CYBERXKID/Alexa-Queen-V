@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              Jessi-by Mr.White Shadow
+//                              Alexa-by cyberxkid
 //@Thanks to Mr.Chabby To help me
 //
 //════════════════════════════//
