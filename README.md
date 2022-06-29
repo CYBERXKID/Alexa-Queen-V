@@ -61,13 +61,6 @@
 
   </div>
 
-
-
-## ⚠ Warnings & Disclaimers ⚠
-
-> - By using kick, add, promote, demote Commands, **Your WhatsApp account may be banned.** This is an open source project, **you are responsible for everything you do.** Absolutely, Alexa executives **do not accept responsibility.** By establishing the Alexa, **you are deemed to have accepted these responsibilities.**
-
-> - **WhatsApp** name, its variations and the logo are registered trademarks of Facebook. **We have nothing to do with the registered trademark.**
 ----
 
 
@@ -78,16 +71,6 @@
 
   
  ----
-
- 
-
-
-
-
-> All photos and names of this project are owned by the first owner.
-----
-> This project was prepared with all his approval.
-## 👨‍💻 Developers & Contributors 👨‍💻
 
 ## Developers
   <div align="center">
@@ -114,16 +97,10 @@
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Gv3CdQTRQ3Z0UcArqhD3IB)
 
-  <div align="center">
-
-
-> ### Disclaimer
-----
-
->`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
+  <div align="center
 .
 
-> The project was created by CYBERXKID
+> THE PROJECT BY CYBERXKID
 
 ____________________________________________
 
