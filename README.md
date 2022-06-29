@@ -2,7 +2,7 @@
 <img src="https://te.legra.ph/file/91edb7b62c2b4f1a2cda3.jpg" alt="nz" width="350"/>
 </p>
 
-## MS.JESSICA
+🧚ALEXA QUEEN🧚
 
 
 > [Automated Multi Device whatsapp bot created](https://github.com/CYBERXKID) by [CYBERXKID](https://github.com/CYBERXKID)
